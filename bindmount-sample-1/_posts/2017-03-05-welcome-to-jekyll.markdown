@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Jaekyllにようこそ!"
 date:   2017-03-05 08:37:38 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+この投稿は `_post` ディレクトリー内に存在します。 こちらに移動してサイトを編集、再ビルドをして変更を確認してください。 さまざまな方法でサイトを際ビルドできますが、もっとも一般的な方法は `jekyll serve` を実行することです。 これによってWebサーバーが起動し、ファイルが更新されるとサイトが自動で再生成されます。
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
